@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationExample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="message_one">Mensagem 1</string>
+    <string name="message_two">Mensagem 2</string>
+    <string name="message_three">Mensagem 3</string>
+    <string name="text_one">Você clicou no primeiro item</string>
+    <string name="text_two">Você clicou no segundo item</string>
+    <string name="text_three">Você clicou no terceiro item</string>
+</resources>
